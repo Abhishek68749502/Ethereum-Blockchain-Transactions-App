@@ -1,9 +1,13 @@
-# Ethereum-Blockchain-Transactions-App
-Tech used:
-1. Javascript
-2. React
-3. Solidity
-4. Metamask
-5. PostreSQL
-6. Ethers.js
-7. Sepolia ethereum as test ethereum
+# Sample Hardhat Project
+
+This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+
+Try running some of the following tasks:
+
+```shell
+npx hardhat help
+npx hardhat test
+REPORT_GAS=true npx hardhat test
+npx hardhat node
+npx hardhat run scripts/deploy.js
+```
